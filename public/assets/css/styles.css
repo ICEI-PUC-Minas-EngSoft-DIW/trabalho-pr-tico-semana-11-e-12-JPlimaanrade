@@ -86,7 +86,13 @@ footer {
     font-weight: bold;
     text-align: center;
 }
-
+#detalhes button {
+    display: block;
+    margin: 20px auto;
+}
+#imagensrelacionadas{
+    gap: 100px;
+}
 /* Blocos de texto principais */
 #descricao,
 #dicas,
